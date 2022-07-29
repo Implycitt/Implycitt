@@ -1,10 +1,15 @@
-<p align="center"><img width="80%" alt="Hello, I'm Quentin." src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Quentin B</h1>
 
-<br />
+<!-- Language Stack -->
+<div align="center">
+    <img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Implycitt&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Implycitt&theme=radical" />
-</a>
+<p align="center">
+    
+<!-- GitHub Stats -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Implycitt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=9F2B68&title_color=9F2B68">
+</div>
