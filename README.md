@@ -16,5 +16,5 @@
 
 <!-- Top Languages -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Implycitt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=9F2B68&title_color=9F2B68" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Implycitt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=9F2B68&title_color=9F2B68&hide=c%23" />
 </div>
