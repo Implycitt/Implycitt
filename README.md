@@ -7,6 +7,7 @@
         </h2>
         <p>I am a Computer Science and Physics undergraduate student at Louisiana State University interested in the intersection of software engineering and physics. Beyond the classroom, I serve as the Webmaster for LSU’s Google Developer Student Club, where I build internal platform tools, such as the club chapters website, and lead technical student workshops. I am currently working for the Department of Revenue in Illinois and FAST Enterprises as a software engineering intern. </p>
     </div>
+    <hr>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Implycitt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=material-palenight" />
     </div>
@@ -48,7 +49,11 @@
     </div>
     <div>
         <h3> Socials <h3>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/quentinbordelon/" />
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" src="https://www.quentinb.dev" />
+        <a href="https://www.linkedin.com/in/quentinbordelon/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://www.quentinb.dev">
+            <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+        </a>
     </div>
 </div>
