@@ -12,6 +12,14 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Implycitt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=material-palenight" />
     </div>
     <div align="center">
+        <h3> Hosted Stats </h3>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquentinb.dev%2Fapi%2Fstats&query=%24.followers&label=followers&color=2EDFE5" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquentinb.dev%2Fapi%2Fstats&query=%24.public_repos&label=repos&color=7B2CBF" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquentinb.dev%2Fapi%2Fstats&query=%24.total_stars&label=stars&color=C77DFF" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquentinb.dev%2Fapi%2Fstats&query=%24.total_forks&label=forks&color=FF2A6D" />
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquentinb.dev%2Fapi%2Fstats&query=%24.top_languages%5B0%5D.name&label=top%20language&color=05D9E8" />
+    </div>
+    <div align="center">
         <div>
             <h3> Languages </h3>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
