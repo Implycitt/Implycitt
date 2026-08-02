@@ -16,15 +16,19 @@ I build software at the intersection of engineering and physics: full-stack plat
 
 ![GitHub stats](https://quentinb.dev/api/stats/card)
 
+![Streak](https://quentinb.dev/api/stats/streak)
+
+![Top repos](https://quentinb.dev/api/stats/repos)
+
 </div>
 
 ---
 
 ## What I'm Doing Now
 
--  **Implementation Consultant Intern @ FAST Enterprises** — configuring, testing, and deploying GovTech solutions for government agency clients; optimizing complex SQL across 1M+ row taxpayer tables.
--  **Webmaster @ LSU Google Developers Student Club** — building full-stack tools for a 100+ member community: event check-ins, member tracking, and technical workshops.
--  **AveResearch2026** — a 600k-record bird/urbanization research pipeline: API ingestion, WorldPop density modeling, and chi-squared analysis.
+-  **Implementation Consultant Intern @ FAST Enterprises** - configuring, testing, and deploying GovTech solutions for government agency clients; optimizing complex SQL across 1M+ row taxpayer tables.
+-  **Webmaster @ LSU Google Developers Student Club** - building full-stack tools for a 100+ member community: event check-ins, member tracking, and technical workshops.
+-  **AveResearch2026** - a 600k-record bird/urbanization research pipeline: API ingestion, WorldPop density modeling, and chi-squared analysis.
 
 ---
 
@@ -99,12 +103,10 @@ I build software at the intersection of engineering and physics: full-stack plat
 
 ## Let's Connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentinbordelon/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://quentinb.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qborde1@lsu.edu)
 
----
-
-<div align="center">
-  <sub>Stats card is served live from <a href="https://quentinb.dev/api/stats/card">quentinb.dev/api/stats/card</a></sub>
 </div>
