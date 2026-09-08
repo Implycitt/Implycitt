@@ -10,27 +10,18 @@
 
 ### Computer Science & Physics @ LSU · Software Engineering Intern @ FAST Enterprises · Webmaster @ LSU GDSC
 
-I am a Computer Science and Physics undergraduate student at Louisiana State University interested in the intersection of software engineering and physics.
-
-`~/portfolio $ ./profile.sh --view`
 
 </div>
 
 ---
 
-<h2 align="center">Experience & Community</h2>
-
-- **Implementation Consultant Intern @ FAST Enterprises** - helping active rollout of GenTax for the Illinois Department of Revenue.
-- **Webmaster @ LSU Google Developers Student Club** - building full-stack tools for a 100+ member community: event check-ins, member tracking, and technical workshops.
-
----
-
 <h2 align="center">What I'm Currently Working On</h2>
 
+- **QuickView** - A hot reload md and pdf [viewer](https://github.com/Implycitt/quickView) along with tooling to help with my daily work on documents.
+- **Command-line tooling** - terminal utilities for [hackathons and other daily uses.](https://github.com/Implycitt/tools)
+- **Various websites** - full stack web apps for myself and others - [GDSC](https://gdsclsu.org), [Geauxhack](https://Geauxhack.com), [Portfolio](https://quentinb.dev).
 - **Home lab** - self-hosted servers and services.
-- **AveResearch2026** - improving the bird/urbanization research pipeline: cleaner ingestion, sharper WorldPop density modeling, and better statistical analysis.
-- **Command-line tooling** - terminal utilities for hackathons and other daily uses.
-- **Various websites** - full stack web apps for myself and others - [GDSC](https://gdsclsu.org), Geauxhack, [Portfolio](https://quentinb.dev).
+- **AveResearch2026** - improving the [bird/urbanization research](https://github.com/Implycitt/AveResearch2026) pipeline: cleaner ingestion, sharper WorldPop density modeling, and better statistical analysis.
 
 ---
 
