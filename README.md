@@ -20,6 +20,8 @@
 
 <div align="center">
 
+---
+
 ### Live GitHub Stats
 
 ![GitHub stats](https://quentinb.dev/api/stats/card)
