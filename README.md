@@ -2,14 +2,9 @@
 
 # Quentin Bordelon
 
----
-
 ## Hello! Bonjour! Hola! Ciao! Привет! 你好!
 
----
-
 ### Computer Science & Physics @ LSU · Software Engineering Intern @ FAST Enterprises · Webmaster @ LSU GDSC
-
 
 </div>
 
@@ -23,8 +18,6 @@
 - **Home lab** - self-hosted servers and services.
 - **AveResearch2026** - improving the [bird/urbanization research](https://github.com/Implycitt/AveResearch2026) pipeline: cleaner ingestion, sharper WorldPop density modeling, and better statistical analysis.
 
----
-
 <div align="center">
 
 ### Live GitHub Stats
@@ -36,8 +29,6 @@
 ![Languages](https://quentinb.dev/api/stats/languages)
 
 </div>
-
----
 
 <h2 align="center">Skills</h2>
 
@@ -94,8 +85,6 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark">
 
 </p>
-
----
 
 <h2 align="center">Let's Connect</h2>
 
