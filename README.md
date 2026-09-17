@@ -24,11 +24,9 @@
 
 ### Live GitHub Stats
 
-![GitHub stats](https://quentinb.dev/api/stats/card)
-
-![Streak](https://quentinb.dev/api/stats/streak)
-
-![Languages](https://quentinb.dev/api/stats/languages)
+<p align="center">
+<img src="https://quentinb.dev/api/stats/grid" width="816" alt="GitHub stats: profile totals, contribution streak, top languages by bytes of code, and contribution totals">
+</p>
 
 </div>
 
