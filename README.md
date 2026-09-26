@@ -4,7 +4,7 @@
 
 ## Hello! Bonjour! Hola! Ciao! Привет! 你好!
 
-### Computer Science & Physics @ LSU · Software Engineering Intern @ FAST Enterprises · Webmaster @ LSU GDSC
+### Computer Science & Physics @ LSU · Prev SWE Intern @ FAST Enterprises · Webmaster @ LSU GDSC
 
 </div>
 
